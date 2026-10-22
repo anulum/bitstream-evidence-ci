@@ -1,0 +1,12 @@
+{
+  "capabilities": [],
+  "claims": [],
+  "evidence_maturity": "architecture_only",
+  "lifecycle": "local_scaffold",
+  "qualified_owned_schema_ids": [],
+  "repository_name": "BITSTREAM-EVIDENCE-CI",
+  "source_metadata": {
+    "path": "repository-domain.json",
+    "sha256": "7d92457ce9c17d929069c0290d30d3538c3994b1a8dfb03a15be5779a76089aa"
+  }
+}
