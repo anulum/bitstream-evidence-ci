@@ -12,6 +12,8 @@ BITSTREAM-EVIDENCE-CI — repository foundation
 
 Bitstream Evidence CI is being built to preserve source-pinned FPGA build attempts, exact tool-reported metrics and independently checked rebuild decisions. This checkout contains repository validation tooling and documentation. Full foundation qualification is in progress. There is no installed build-evidence package, vendor build runner, public build-evidence command or qualified bitstream result.
 
+Bitstream Evidence CI is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 ## Boundary
 
 This project owns the planned complete build-input admission, version-specific adapter, attempt capture, exact report interpretation, rebuild comparison and immutable build-history semantics. Evidence Manifest Toolkit owns shared evidence assembly and verification. Experiment Ledger owns generic experiment storage. Existing source projects retain their RTL, Tcl, generator and CI implementations.
